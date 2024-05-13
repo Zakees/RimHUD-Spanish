@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Model.Bio.Title>Título: {0}</RimHUD.Model.Bio.Title>
+  <RimHUD.Model.Bio.Faction>Facción: {0}</RimHUD.Model.Bio.Faction>
+  <RimHUD.Model.Bio.Ideoligion>Ideoligión: {0}</RimHUD.Model.Bio.Ideoligion>
+  <RimHUD.Model.Bio.Lifestage>Etapa: {0}</RimHUD.Model.Bio.Lifestage>
+  <RimHUD.Model.Bio.Master>Amo: {0}</RimHUD.Model.Bio.Master>
+  <RimHUD.Model.Bio.Diet>Dieta: {0}</RimHUD.Model.Bio.Diet>
+  <RimHUD.Model.Bio.Trainability>Docilidad: {0}</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Wildness>Ferocidad: {0}</RimHUD.Model.Bio.Wildness>
+  <RimHUD.Model.Bio.Petness>Petness: {0}</RimHUD.Model.Bio.Petness>
+
+  <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>de {0}</RimHUD.Model.OfFaction>
+
+  <RimHUD.Model.Faction.Wild>salvaje</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>aliado</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>enemigo</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>hostil</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>independiente</RimHUD.Model.Faction.Independent>
+  <RimHUD.Model.Faction.Prisoner>capturado</RimHUD.Model.Faction.Prisoner>
+  <RimHUD.Model.Faction.Slave>esclavizado</RimHUD.Model.Faction.Slave>
+
+  <RimHUD.Model.Creature.Wild>criatura</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>animal</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>vagabundo</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>mascota</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>mascota exótica</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>depredador</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>animal de caza</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>manada</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>animal de granja</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>animal de rebaño</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>insecto</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.Creature.Mechanoid>mecanoide</RimHUD.Model.Creature.Mechanoid>
+  <RimHUD.Model.Creature.Unit>unidad</RimHUD.Model.Creature.Unit>
+  <RimHUD.Model.Creature.Entity>entidad</RimHUD.Model.Creature.Entity>
+
+  <RimHUD.Model.GenderRaceAndAge>{0} con {1} años</RimHUD.Model.GenderRaceAndAge>
+  <RimHUD.Model.Age.Birthday>(Cumpleaños hoy)</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day>y un día</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>y {0} días</RimHUD.Model.Age.Days>
+
+  <RimHUD.Model.Health.Dead>Muerto</RimHUD.Model.Health.Dead>
+  <RimHUD.Model.Health.Incapacitated>Incapacitado</RimHUD.Model.Health.Incapacitated>
+  <RimHUD.Model.Health.Bleed>Desangrándose en {0}</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>{0} necesita tratamiento</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>{0} condiciones necesitan tratamiento</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>Tiene {0} crítico</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>Tiene {0} condiciones críticas</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>Afectado por {0}</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedTwo>Afectado por {0} y otra condición</RimHUD.Model.Health.AffectedTwo>
+  <RimHUD.Model.Health.AffectedPlural>Afectado por {0} y otras {1} condiciones</RimHUD.Model.Health.AffectedPlural>
+  <RimHUD.Model.Health.Stable>Estable</RimHUD.Model.Health.Stable>
+
+  <RimHUD.Model.Health.MedicalCare>Cambia el nivel de tratamiento médico que se dará a este {0}.\n\nNivel actual: {1}</RimHUD.Model.Health.MedicalCare>
+
+  <RimHUD.Model.Mood.ExtremeBreakImminent>Deprimido</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>Infeliz</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>Estresado</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Happy>Feliz</RimHUD.Model.Mood.Happy>
+  <RimHUD.Model.Mood.Content>Contento</RimHUD.Model.Mood.Content>
+  <RimHUD.Model.Mood.Indifferent>Indiferente</RimHUD.Model.Mood.Indifferent>
+
+  <RimHUD.Model.Info.Activity>Actividad: {0}</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+  <RimHUD.Model.Info.Activity.WorkType>Tipo de trabajo: {0}</RimHUD.Model.Info.Activity.WorkType>
+  <RimHUD.Model.Info.Activity.RelevantSkills>Habilidades relevantes: {0}</RimHUD.Model.Info.Activity.RelevantSkills>
+  <RimHUD.Model.Info.Attacking>Atacando a {0}</RimHUD.Model.Info.Attacking>
+  <RimHUD.Model.Info.Queued>En cola: {0}</RimHUD.Model.Info.Queued>
+  <RimHUD.Model.Info.Equipped>Equipado: {0}</RimHUD.Model.Info.Equipped>
+  <RimHUD.Model.Info.Carrying>Cargando: {0}</RimHUD.Model.Info.Carrying>
+
+  <RimHUD.Model.Selector.OutfitFormat>Vestimenta: {0}</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.FoodFormat>Comida: {0}</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.TimetableFormat>Horario: {0}</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>Establecer {0} a {1}</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.AreaFormat>Área: {0}</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.Manage>Administrar...</RimHUD.Model.Selector.Manage>
+
+  <RimHUD.Model.Skill.PassionIndicator>★</RimHUD.Model.Skill.PassionIndicator>
+</LanguageData>

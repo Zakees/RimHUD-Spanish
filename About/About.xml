@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>Zakees.RimHUD.Spanish</packageId>
+  <name>RimHUD Spanish</name>
+  <author>Zakees</author>
+  <description>Mod Version: 1.15.3\n\nRimHUD es un mod que muestra una interfaz con información detallada sobre un personaje o criatura seleccionado. El HUD está integrado en el panel del juego y puede ser redimensionado para mostrar más información. Además, se puede mostrar en una ventana flotante separada y anclada a cualquier posición de la pantalla.\n\nSi un colono tiene condiciones médicas críticas, heridas por atender, o está cerca de colapsar, se mostrará una alerta visual.</description>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+	<li>
+      <packageId>Jaxe.RimHUD</packageId>
+      <displayName>RimHUD</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1508850027</steamWorkshopUrl>
+      <downloadUrl>https://github.com/Jaxe-Dev/RimHUD/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+	<li>Jaxe.RimHUD</li>
+  </loadAfter>
+</ModMetaData>
