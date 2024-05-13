@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Interface.Button.OK>OK</RimHUD.Interface.Button.OK>
+  <RimHUD.Interface.Button.Yes>Sí</RimHUD.Interface.Button.Yes>
+  <RimHUD.Interface.Button.No>No</RimHUD.Interface.Button.No>
+  <RimHUD.Interface.Button.Cancel>Cancelar</RimHUD.Interface.Button.Cancel>
+  <RimHUD.Interface.Button.Close>Cerrar</RimHUD.Interface.Button.Close>
+  <RimHUD.Interface.Button.Save>Guardar</RimHUD.Interface.Button.Save>
+
+  <RimHUD.Interface.Dialog_Config.Title>RimHUD</RimHUD.Interface.Dialog_Config.Title>
+  <RimHUD.Interface.Dialog_Config.SetToDefault>Restablecer</RimHUD.Interface.Dialog_Config.SetToDefault>
+  <RimHUD.Interface.Dialog_Config.OpenFolder>Carpeta de config.</RimHUD.Interface.Dialog_Config.OpenFolder>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Design>Diseño</RimHUD.Interface.Dialog_Config.Tab_Design>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Colors>Colores</RimHUD.Interface.Dialog_Config.Tab_Colors>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Editor>Editar color de {0}</RimHUD.Interface.Dialog_Config.Tab_Colors.Editor>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Hue>Intensidad</RimHUD.Interface.Dialog_Config.Tab_Colors.Hue>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation>Saturación</RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness>Luminosidad</RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha>Alpha</RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA>RGBA</RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Content>Contenido</RimHUD.Interface.Dialog_Config.Tab_Content>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked>Capas fijadas</RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating>Capas flotantes</RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets>Plantillas</RimHUD.Interface.Dialog_Config.Tab_Content.Presets>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select>Elegir plantilla...</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save>Guardar plantilla</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage>Administrar plantillas</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default>[Predeterminado]</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.DefaultCompact>[Predeterminado - Compacto]</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.DefaultCompact>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer>Capa</RimHUD.Interface.Dialog_Config.Tab_Content.Layer>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp>Subir</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown>Bajar</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove>Eliminar</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack>Añadir stack</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc>Un stack puede contener paneles u otros stacks. El contenido del stack se distribuirá horizontal o verticalmente según el tipo de stack elegido.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel>Añadir panel</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc>Un panel muestra filas de elementos verticalmente.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow>Añadir fila</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc>Una fila contiene elementos. Si este contiene más de uno, se mostrarán de manera horizontal.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget>Añadir widget</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty>Añadir contenido de terceros</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat>Añadir estadística</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord>Añadir registro</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed>Añadir necesidad</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining>Añadir habilidad/entrenamiento</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining>
+
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Selected>Seleccionado: </RimHUD.Interface.Dialog_Config.Tab_Content.Selected>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled>Rellenar altura</RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc>Si está marcado, el panel o el stack se estirarán para llenar el espacio vertical restante.\n\nSi no está marcado, cambiará la altura según su contenido</RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc>
+
+  <RimHUD.Interface.Dialog_ManagePresets.Title>Plantillas del usuario</RimHUD.Interface.Dialog_ManagePresets.Title>
+  <RimHUD.Interface.Dialog_ManagePresets.Delete>Eliminar seleccionados</RimHUD.Interface.Dialog_ManagePresets.Delete>
+
+  <RimHUD.Interface.Dialog_SavePreset.Title>Guardar plantilla</RimHUD.Interface.Dialog_SavePreset.Title>
+  <RimHUD.Interface.Dialog_SavePreset.Name>Nombre</RimHUD.Interface.Dialog_SavePreset.Name>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeDocked>Incluir fijadas</RimHUD.Interface.Dialog_SavePreset.IncludeDocked>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeFloating>Incluir flotantes</RimHUD.Interface.Dialog_SavePreset.IncludeFloating>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeHeight>Incluir altura</RimHUD.Interface.Dialog_SavePreset.IncludeHeight>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeWidth>Incluir anchura</RimHUD.Interface.Dialog_SavePreset.IncludeWidth>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeTabs>Incluir pestañas mínimas</RimHUD.Interface.Dialog_SavePreset.IncludeTabs>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes>Incluir fuentes</RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes>
+
+  <RimHUD.Interface.Alert.ConfigReset>RimHUD se ha actualizado a la versión {0} y necesita restablecer su configuración.</RimHUD.Interface.Alert.ConfigReset>
+  <RimHUD.Interface.Alert.SetToDefault>¿Estás seguro de que quieres revertir las configuraciones a sus valores predeterminados?</RimHUD.Interface.Alert.SetToDefault>
+  <RimHUD.Interface.Alert.InvalidPreset>Este diseño para RimHUD contenía elementos inválidos o elementos de otros mods que ya no están activos.\n\nEl diseño del HUD ha sido restablecido a sus valores por defecto.</RimHUD.Interface.Alert.InvalidPreset>
+  <RimHUD.Interface.Alert.PresetDefaultLoaded>Plantilla restablecida.</RimHUD.Interface.Alert.PresetDefaultLoaded>
+  <RimHUD.Interface.Alert.PresetLoaded>Plantilla '{0}' cargada.</RimHUD.Interface.Alert.PresetLoaded>
+  <RimHUD.Interface.Alert.PresetSaved>Plantilla '{0}' guardada.</RimHUD.Interface.Alert.PresetSaved>
+  <RimHUD.Interface.Alert.ConfirmDelete>¿Seguro que quieres eliminar la plantilla '{0}'?</RimHUD.Interface.Alert.ConfirmDelete>
+  <RimHUD.Interface.Alert.NotImplemented>Esta característica no está implementada aún</RimHUD.Interface.Alert.NotImplemented>
+  <RimHUD.Interface.Alert.MoreComingSoon>Más características próximamente</RimHUD.Interface.Alert.MoreComingSoon>
+
+  <RimHUD.Interface.Settings.Tutorial>Para acceder a la configuración de RimHUD, ve al panel de inspección mientras seleccionas un personae y haz clic en el engranaje.</RimHUD.Interface.Settings.Tutorial>
+  <RimHUD.Interface.Settings.TutorialStart>Deberías ver un pequeño tutorial sobre cómo hacer esto en el juego cuando actives el panel de inspección.</RimHUD.Interface.Settings.TutorialStart>
+  <RimHUD.Interface.Settings.TutorialComplete>Para volver a ver cómo hacer esto, haz clic en el botón de debajo.</RimHUD.Interface.Settings.TutorialComplete>
+  <RimHUD.Interface.Settings.ResetTutorial>Reiniciar tutorial</RimHUD.Interface.Settings.ResetTutorial>
+
+  <RimHUD.Interface.Tutorial.InspectPane>haz clic en este engranaje para acceder a las opciones del mod</RimHUD.Interface.Tutorial.InspectPane>
+  <RimHUD.Interface.Tutorial.InspectPaneHover>pasa el cursor sobre este panel para ver el botón de configuración</RimHUD.Interface.Tutorial.InspectPaneHover>
+  <RimHUD.Interface.Tutorial.DialogConfig1>Aquí están todos los ajustes de RimHUD que permiten modificaciones de estilo y del contenido que se muestra.</RimHUD.Interface.Tutorial.DialogConfig1>
+  <RimHUD.Interface.Tutorial.DialogConfig2>En la pestaña de contenido puedes guardar y cargar plantillas y puede haber plantillas predeterminadas para otros mods que estés usando.</RimHUD.Interface.Tutorial.DialogConfig2>
+  <RimHUD.Interface.Tutorial.DialogConfig3>Cuando termines, haz clic aquí para cerrar la ventana.</RimHUD.Interface.Tutorial.DialogConfig3>
+  <RimHUD.Interface.Tutorial.DialogConfigContinue>Clic para continuar...</RimHUD.Interface.Tutorial.DialogConfigContinue>
+  <RimHUD.Interface.Tutorial.DialogConfigEnd>No aparecerán más notificaciones como esta para garantizar una experiencia vanilla. ¡Disfruta!</RimHUD.Interface.Tutorial.DialogConfigEnd>
+</LanguageData>
