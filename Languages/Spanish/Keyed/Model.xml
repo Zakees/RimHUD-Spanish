@@ -37,10 +37,10 @@
   <RimHUD.Model.Creature.Unit>unidad</RimHUD.Model.Creature.Unit>
   <RimHUD.Model.Creature.Entity>entidad</RimHUD.Model.Creature.Entity>
 
-  <RimHUD.Model.GenderRaceAndAge>{0} con {1} años</RimHUD.Model.GenderRaceAndAge>
+  <RimHUD.Model.GenderRaceAndAge>{0} de {1}</RimHUD.Model.GenderRaceAndAge>
   <RimHUD.Model.Age.Birthday>(Cumpleaños hoy)</RimHUD.Model.Age.Birthday>
-  <RimHUD.Model.Age.Day>y un día</RimHUD.Model.Age.Day>
-  <RimHUD.Model.Age.Days>y {0} días</RimHUD.Model.Age.Days>
+  <RimHUD.Model.Age.Day>años y un día</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>años y {0} días</RimHUD.Model.Age.Days>
 
   <RimHUD.Model.Health.Dead>Muerto</RimHUD.Model.Health.Dead>
   <RimHUD.Model.Health.Incapacitated>Incapacitado</RimHUD.Model.Health.Incapacitated>
