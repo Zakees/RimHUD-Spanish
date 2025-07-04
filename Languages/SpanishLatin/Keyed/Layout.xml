@@ -66,7 +66,7 @@
   <RimHUD.Layout.Queued>En cola</RimHUD.Layout.Queued>
   <RimHUD.Layout.Equipped>Equipado</RimHUD.Layout.Equipped>
   <RimHUD.Layout.Carrying>Cargando</RimHUD.Layout.Carrying>
-  <RimHUD.Layout.CompInfo>Información extra</RimHUD.Layout.CompInfo>
+  <RimHUD.Layout.CompInfo>Información de componente</RimHUD.Layout.CompInfo>
   <RimHUD.Layout.PrisonerInfo>Información de prisionero</RimHUD.Layout.PrisonerInfo>
 
   <RimHUD.Layout.Target.PlayerHumanlike>Humanoides del Jugador</RimHUD.Layout.Target.PlayerHumanlike>

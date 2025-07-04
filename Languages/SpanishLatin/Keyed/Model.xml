@@ -52,16 +52,24 @@
   <RimHUD.Model.Health.Affected>Afectado por {0}</RimHUD.Model.Health.Affected>
   <RimHUD.Model.Health.AffectedTwo>Afectado por {0} y otra condición</RimHUD.Model.Health.AffectedTwo>
   <RimHUD.Model.Health.AffectedPlural>Afectado por {0} y otras {1} condiciones</RimHUD.Model.Health.AffectedPlural>
-  <RimHUD.Model.Health.Stable>Estable</RimHUD.Model.Health.Stable>
 
+  <RimHUD.Model.Health.Good>Saludable</RimHUD.Model.Health.Good>
+  <RimHUD.Model.Health.Stable>Estable</RimHUD.Model.Health.Stable>
+  <RimHUD.Model.Health.Poor>Mala salud</RimHUD.Model.Health.Poor>
+  <RimHUD.Model.Health.Critical>En estado crítico</RimHUD.Model.Health.Critical>
+  
   <RimHUD.Model.Health.MedicalCare>Cambia el nivel de tratamiento médico que se dará a este {0}.\n\nNivel actual: {1}</RimHUD.Model.Health.MedicalCare>
 
   <RimHUD.Model.Mood.ExtremeBreakImminent>Deprimido</RimHUD.Model.Mood.ExtremeBreakImminent>
   <RimHUD.Model.Mood.MajorBreakImminent>Infeliz</RimHUD.Model.Mood.MajorBreakImminent>
   <RimHUD.Model.Mood.MinorBreakImminent>Estresado</RimHUD.Model.Mood.MinorBreakImminent>
-  <RimHUD.Model.Mood.Happy>Feliz</RimHUD.Model.Mood.Happy>
+  <RimHUD.Model.Mood.Excellent>Feliz</RimHUD.Model.Mood.Excellent>
   <RimHUD.Model.Mood.Content>Contento</RimHUD.Model.Mood.Content>
-  <RimHUD.Model.Mood.Indifferent>Indiferente</RimHUD.Model.Mood.Indifferent>
+  <RimHUD.Model.Mood.Neutral>Tranquilo</RimHUD.Model.Mood.Neutral>
+
+  <RimHUD.Model.Mood.Inspired>{0} durante {1}</RimHUD.Model.Mood.Inspired>
+  <RimHUD.Model.Mood.Stunned>Aturdido durante {0}</RimHUD.Model.Mood.Stunned>
+  <RimHUD.Model.Mood.Staggered>Tambaleándose durante {0}</RimHUD.Model.Mood.Staggered>
 
   <RimHUD.Model.Info.Activity>Actividad: {0}</RimHUD.Model.Info.Activity>
   <RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
